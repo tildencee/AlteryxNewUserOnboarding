@@ -18,6 +18,15 @@ This workshop will focus on the following solution capabilities within Alteryx.
 
 ![image](https://user-images.githubusercontent.com/90619708/178677331-3e2249b9-56be-4927-8792-327851675456.png)
 
+All tools in Alteryx appear at the top within different tool palettes. They are divided into groups based on their function.
+
+![image](https://user-images.githubusercontent.com/90619708/178679435-e76305f8-093c-419f-a448-c38a1a5eedc7.png)
+
+Below the tool palette, you are presented with a blank canvas. This is where you build your workflow to transform and analyze your data using sets of tools:
+
+![image](https://user-images.githubusercontent.com/90619708/178680899-60e3b8e2-d5bd-4d9a-af34-50c9f4f483ab.png)
+
+
 
 
 ## About The Use-Case
