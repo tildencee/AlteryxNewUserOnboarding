@@ -1,27 +1,34 @@
 # New User OnBoarding - Hands-on Workshop
 
-![](images/j2c-logo.png)
+![image](https://user-images.githubusercontent.com/90619708/178671428-46f67e4b-1755-4c4d-bc57-17bf25905c0f.png)
 
 > Updated: July 2022
 
-## Upgrade To The Cloud: Oracle Integration Hands-on Workshop
-A hands-on workshop to dive into development on Oracle's Integration Cloud Platform
+## Analytics for All: Analytics Process Automation with Alteryx Designer
+A hands-on workshop to dive into development on Alteryx's Designer platform
 
 ## Overview
-Enterprises can innovate faster, improve customer engagement, drive business-process efficiency, and accelerate digital transformation with Oracle Cloud. Oracle is the enterprise technology partner that positions companies for tomorrow, today; empowering businesses of all sizes on their journey of digital transformation. Oracle Cloud provides leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service.
+Enterprises can innovate faster, drive business-process efficiency, and accelerate digital transformation with Alteryx. Alteryx Designer empowers data analysts, scientists and knowledge workers alike by combining data preparation, data blending, and analytics —predictive, statistical, and spatial —using a low code to no-code intuitive user interface.
 
-At Oracle we have invested in delivering a plethora of new Cloud Services and we want to show you how simple – yet powerful they are. We specifically wanted to focus on low code, high productivity services that can be used in building enterprise grade solutions. We believe the best way to do this is to showcase a real world business solution comprised of these services. You will build the entire solution during the course of this workshop all in a stress-free fun environment. 
+This workshop will focus on the following solution capabilities within Alteryx.  
+- Alteryx Designer delivers best in class data prep & analytics. Master your data landscape, no matter the source. Connect, blend, and wrangle it. Profile it for sound analytics decisions. No code required.
+- Alteryx Designer delivers best in class analytics automation. Stop reinventing the wheel. Create and automate workflows to accelerate innovation. Discover the analytics and data science platform that empowers everyone to make breakthrough insights.
 
-This workshop will focus on the following solution capabilities within Oracle Autonomous Integration Cloud (OIC).  
-- Oracle Integration Capability delivers best in class “Hybrid” Integration. OIC is a simple and powerful integration platform in the cloud to maximize the value of your investments in SaaS and on-premises applications
-- Oracle Process Automation Capability with an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device
-- Oracle Visual Builder Capability to rapidly create and host engaging business applications with a visual development environment right from the comfort of your browser. 
+## Introducing the ALteryx Designer Interface
 
-## About OIC
+![image](https://user-images.githubusercontent.com/90619708/178677331-3e2249b9-56be-4927-8792-327851675456.png)
 
-Oracle Integration Cloud (OIC) brings together all the critical capabilities of a complete Application Integration, Process Automation, Visual Application Building and Integration Analytics solution into a single unified cloud service. Oracle Integration Cloud now brings real-time and batch based integration, structured and unstructured processes, case management, stream analytics, zero code integration insight etc, allowing customers to service all their end to end integration needs in one cohesive platform so that all users can now transition and collaborate across these capabilities and projects seamlessly.
 
-![](images/oic.png)
+
+## About The Use-Case
+
+ACME Industries has ‘dirty’ store files containing 1) sales data by store and 2) geographical information for each store. We will use Designer to: 
+ -  Prepare the data based on conversations with management
+ -  Combine the files,
+ -  Calculate a ‘Total Sales’ field per store,
+ - Calculate the total sales per region (county)
+ - Output the top three counties for total sales. 
+ - Automate your workflow
 
 ## Oracle Integration Cloud Features
 
