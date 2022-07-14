@@ -14,24 +14,31 @@ This workshop will focus on the following solution capabilities within Alteryx.
 - Alteryx Designer delivers best in class data prep & analytics. Master your data landscape, no matter the source. Connect, blend, and wrangle it. Profile it for sound analytics decisions. No code required.
 - Alteryx Designer delivers best in class analytics automation. Stop reinventing the wheel. Create and automate workflows to accelerate innovation. Discover the analytics and data science platform that empowers everyone to make breakthrough insights.
 
-## Introducing the ALteryx Designer Interface
+## Introducing the Alteryx Designer Interface
 
 ![image](https://user-images.githubusercontent.com/90619708/178677331-3e2249b9-56be-4927-8792-327851675456.png)
 
-All tools in Alteryx appear at the top within different tool palettes. They are divided into groups based on their function.
+All tools in Alteryx appear at the top in the **Tool Palette**. They are divided into different tool categries based on their general functions.
 
 ![image](https://user-images.githubusercontent.com/90619708/178679435-e76305f8-093c-419f-a448-c38a1a5eedc7.png)
 
-Below the tool palette, you are presented with a blank canvas. This is where you build your workflow to transform and analyze your data using sets of tools:
+Below the tool palette, you are presented with a blank **Canvas**. This is where you build your workflow to transform and analyze your data using sets of tools:
 
 ![image](https://user-images.githubusercontent.com/90619708/178680899-60e3b8e2-d5bd-4d9a-af34-50c9f4f483ab.png)
 
+The **Configuration  window** displays the configurations available for a selected tool or connection in the workflow, or for the workflow itself when nothing is selected.
 
+![image](https://user-images.githubusercontent.com/90619708/179029338-71d1e7aa-8fd3-420c-a2b7-83b0c0e30e05.png)
 
+The **Results window** displays the state of the data as it flows through each tool when a workflow is run. It also shows any messages or errors that occur, as well as links to output files that are created.
+
+![image](https://user-images.githubusercontent.com/90619708/179029644-94afea61-111c-4b45-9444-bba753f6aa30.png)
 
 ## About The Use-Case
 
-ACME Industries has ‘dirty’ store files containing 1) sales data by store and 2) geographical information for each store. We will use Designer to: 
+In our hands on workshop today, we are going to work on a use-case for ACME Industires, a hypotherical retail company, with stores located in Coloardo.
+
+ACME Industries has ‘dirty’ flat files containing 1) sales data by store and 2) geographical information for each store. We will use Designer to: 
  -  Prepare the data based on conversations with management
  -  Combine the files,
  -  Calculate a ‘Total Sales’ field per store,
@@ -39,18 +46,21 @@ ACME Industries has ‘dirty’ store files containing 1) sales data by store an
  - Output the top three counties for total sales. 
  - Automate your workflow
 
-## Oracle Integration Cloud Features
+At the end of our build, we will have a completed workflow that looks similar to this below:
 
-- Integrate Applications - Deliver integrations up to 6X faster with pre-built adapters for your SaaS and on-premises systems.
+![image](https://user-images.githubusercontent.com/90619708/179031571-8f6a415f-e4e2-4eb8-81a3-fbbacca7cf26.png)
 
-- Automate Processes - Streamline your digital workforce with an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device.
+## Hands-on Lab Deep Dive
+### Part 1: Prepare the data based on conversations with management
+ 
+**Step 1.0.1** Drag and drop the input data tool from the tool palette onto the canvas. This may be found under the Favorties tab or the In/Out tab.
+ 
+ ![image](https://user-images.githubusercontent.com/90619708/179032948-22a7f940-86f6-41aa-b707-e977e73dc699.png)
 
-- Build Applications Visually - Rapidly create and host engaging business applications with a visual development environment right from the comfort of your browser. Define business objects, integrate data from external system, incorporate business processes, and design tailored interfaces to create your apps.
+**Step 1.0.2** In the configuration window, click on the **Set Up A Connection** button
 
-- Gain Insight - Gain real-time insight into end-to-end processes with guidance on best next steps for your business operational excellence and run massively parallel real-time analytics on streaming data for instant actionable insights. 
+![image](https://user-images.githubusercontent.com/90619708/179035324-5884bda4-4fd1-48ec-b6bc-5edc5c729ec9.png)
 
-## Hands-on Lab Overview
- **Lab 1** This hands-on lab will allow participants to clone a sample integration flow and add 2 conditional branches. They will activate the flow and Test using a REST Client (i.e., Postman)
 
 The OIC integration that we'll be working with is shown in the following picture:
 
