@@ -65,7 +65,7 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ![image](https://user-images.githubusercontent.com/90619708/179291055-9f64cd9a-b7de-4af0-b3dd-c75070e1eb2a.png)
 
-**Step 1.0.4** Proceed to select the **CO Sales Data excel file** previously downloaded to your local machine
+**Step 1.0.4** Proceed to select the **CO Sales Data.xls file** previously downloaded to your local machine
 
 ![image](https://user-images.githubusercontent.com/90619708/179291306-03b647dd-5907-4abe-b53d-d7b9e3b6eb16.png)
 
@@ -77,5 +77,17 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ![image](https://user-images.githubusercontent.com/90619708/179293534-5333bab8-99b0-4ec0-8a78-c52f12c350ba.png)
 
+**Step 1.1.0** Select the CO Sales Data.xls input data tool. In the Preview sections populated in the Configuration window, note that the column headers are listed as "Data 1", "Data 2", "Data 3" and "Data 4". We will need to rename these. 
+ -  To do so, Drag and drop the Select data tool from the tool palette and connect to the right anchor of the CO Sales Data.xls input data tool. This may be found under the Favorties tab or the Preparation tab. Your output should look as below:
+ 
+ ![image](https://user-images.githubusercontent.com/90619708/179300859-e7a66eff-68bf-4338-a7e3-fd9b51ae406f.png)
+ 
+ **Step 1.1.1** In the Configuration window for our Select tool, rename the column headers listed as "Data 1", "Data 2", "Data 3" and "Data 4" as '''Store''' "Cash Sales", "Credit Sales" and "Total Customers" respectively. Change the data type of the newly named "Data 1" column header to "Int 8" if not done already.
+ 
+![image](https://user-images.githubusercontent.com/90619708/179304291-3564479c-c527-4751-9eb8-147d7985051a.png)
+
+**Step 1.1.2** Drag and drop the Browse data tool from the tool palette and connect to the right anchor of the previously added Select tool. Do the same for the **CO Store File - North.yxdb** input data tool
 
 
+ 
+ 
