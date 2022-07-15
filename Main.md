@@ -61,3 +61,21 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ![image](https://user-images.githubusercontent.com/90619708/179035324-5884bda4-4fd1-48ec-b6bc-5edc5c729ec9.png)
 
+**Step 1.0.3** In the Data Connections dialogue box pop-up, navigate to Files andthen click on the Select Files button
+
+![image](https://user-images.githubusercontent.com/90619708/179291055-9f64cd9a-b7de-4af0-b3dd-c75070e1eb2a.png)
+
+**Step 1.0.4** Proceed to select the **CO Sales Data excel file** previously downloaded to your local machine
+
+![image](https://user-images.githubusercontent.com/90619708/179291306-03b647dd-5907-4abe-b53d-d7b9e3b6eb16.png)
+
+**Step 1.0.5** Proceed to click the OK button on the Select Excel Input dialogue box pop-up. You will now see that you are connected to the file in the Canvas, with the Options and Preview sections populated in the Configuration window.
+
+![image](https://user-images.githubusercontent.com/90619708/179292948-8dba755b-966a-47ce-ad8b-ccc1c86d5a16.png)
+
+**Step 1.0.6** Repeat steps 1.0.1 to 1.0.3. This time making sure to select the **CO Store File - North.yxdb** file. Your final output should look like this. 
+
+![image](https://user-images.githubusercontent.com/90619708/179293534-5333bab8-99b0-4ec0-8a78-c52f12c350ba.png)
+
+
+
