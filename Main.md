@@ -61,26 +61,3 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ![image](https://user-images.githubusercontent.com/90619708/179035324-5884bda4-4fd1-48ec-b6bc-5edc5c729ec9.png)
 
-
-The OIC integration that we'll be working with is shown in the following picture:
-
-![](images/oic-flow-image.png)
-
-Here is a description of what is happening with this integration:
-
-![](images/300/2019-02-05_23-56-51.jpg)
-
-A sample (half completed) integration flow will be provided for workshop participants to clone. Participants will make their cloned integration flow unique by adding their initials as prefix or suffix to the Cloned integration flow name. Participants will complete the integration flow and test the REST API with Postman. 
-
-The integration flow uses other integration flows simulating *credit card validation*, *order payment* and *order shipment*. These other integration flows are exposed as REST API calls and provide examples of leveraging common integration flow components within OIC.
-
-**Lab 2** This hands-on lab will allow participants to use the Process Automation capability with in OIC to implement a Business Process that will be triggered for Reject/Approve orders from online shopping API call.
-
-The OIC integration for Process Automation that we'll be working with is shown in the following picture:
-
-![](images/500/img27_11.png)
-
-## Get Started: 
-Open the navigation menu using the hamburger icon in the upper left of the menu bar to choose a lab guide and get started.
-
-The hamburger menu has an icon that looks like this: <img src="images/menu.svg">
