@@ -102,7 +102,7 @@ At the end of our build, we will have a completed workflow that looks similar to
 _**Congratulations!**_ You are now all done with part 1. Run your workflow, save it and then, click on each of the Browse tools. Inspect the data profile as well as the map that is rendered in the Configuration window.
 
 The first browse tool should present a data profile as seen below: Click on each of the columns in the data profile to learn more about each one:
-![image](https://user-images.githubusercontent.com/90619708/179425992-1fdb17b3-04e6-4707-b5b7-b487e9b3ba87.png)
+![image](https://user-images.githubusercontent.com/90619708/179426070-fe26940f-500a-45e6-8a71-1601d4431386.png)
 The second browse tool should render a map as seen below:
 ![image](https://user-images.githubusercontent.com/90619708/179419713-240d87a9-f7ba-44bc-b402-85ed4638c17e.png)
 
