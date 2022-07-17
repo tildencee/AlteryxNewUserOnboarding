@@ -121,7 +121,11 @@ Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179420913-e868314f-706e-4408-91b0-abb9044b9466.png)
 
-**Step 3.0.3** In the Add a column window add `Total Sales` as a new column and then, in the Expression Editor, add the below expression `[Cash Sales]+[Credit Sales]`. Your final configuration should look as below:
+**Step 3.0.3** In the Add a column window add `Total Sales` as a new column and then, in the Expression Editor, add the below expression:
+
+`[Cash Sales]+[Credit Sales]`
+
+Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179421590-1d9a19ad-eaef-4b7e-9b2d-73a5f223411a.png)
 
