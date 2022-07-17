@@ -1,3 +1,12 @@
+# New User OnBoarding - Hands-on Workshop
+
+![image](https://user-images.githubusercontent.com/90619708/178671428-46f67e4b-1755-4c4d-bc57-17bf25905c0f.png)
+
+> Updated: July 2022
+
+## Analytics for All: Analytics Process Automation with Alteryx Designer
+A hands-on workshop to dive into development on Alteryx's Designer platform
+
 ### Part 2: Combine the files
 
 **Step 2.0.1** Drag and drop the Join tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Join tab. Connect the output anchor of the Select tool to the L (Left) input anchor of the Join tool. Then, connect the output anchor of the **CO Store File - North.yxdb** input data tool to the R (right) inout anchor of the Join tool.
