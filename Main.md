@@ -141,12 +141,27 @@ Run and save your workflow. Your final configuration should look as below:
 
 **Step 4.0.3** In the Configuration window under Feilds, select to highlight the Total Sales row. Then, click on Add and select Sum from the drop down.
 
-![image](https://user-images.githubusercontent.com/90619708/179422788-d950603f-b758-4f28-9e1e-36a4b134199d.png)
+![image](https://user-images.githubusercontent.com/90619708/179422898-991ba04d-cc28-40fd-a87d-c361d695e65e.png)
 
 Run and save your workflow. Your final configuration should look as below:
 
-![image](https://user-images.githubusercontent.com/90619708/179422815-27a72be0-ea07-4eff-90f3-7f3083fc2aaa.png)
+![image](https://user-images.githubusercontent.com/90619708/179423279-874d2be6-9d4f-4d57-9113-e3aa09d50079.png)
 
-### Part 4: Output the top three counties for total sales.
+### Part 5: Output the top three counties for total sales.
 
- 
+**Step 5.0.1** Drag and drop the Sort tool from the tool palette onto the canvas. This may be found under the Favorites or Preparation tab. Connect the output anchor from the Summarize tool to the input anchor of the Sort tool.
+
+**Step 5.0.2** In the Configuration window under Feilds, select the Sum_Total Sales column under Name and Descending under Order.
+
+Run and save your workflow. Your final configuration should look as below:
+
+![image](https://user-images.githubusercontent.com/90619708/179423515-a7ba9431-220f-4adb-a829-7c2e2759a5c2.png)
+
+**Step 5.0.3** Drag and drop the Sample tool from the tool palette onto the canvas. This may be found under the Favorites or Preparation tab. Connect the output anchor from the Sort tool to the input anchor of the Summarize tool.
+
+**Step 5.0.4** In the Configuration window under Select Sample Type, select the First N rows radio button and then set N to 3
+
+Run and save your workflow. Your final configuration should look as below:
+
+![image](https://user-images.githubusercontent.com/90619708/179423830-ee0943dd-859a-45c9-8499-1fa655bcc5d0.png)
+
