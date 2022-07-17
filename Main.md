@@ -88,6 +88,31 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 **Step 1.1.2** Drag and drop the Browse data tool from the tool palette and connect to the right anchor of the previously added Select tool. Do the same for the **CO Store File - North.yxdb** input data tool
 
+![image](https://user-images.githubusercontent.com/90619708/179419200-e63d1681-ae10-48f1-8066-4dc8db03f942.png)
+
+_**Congratulations!**_ You are now all done with part 1. Run your workflow and click on each of the Browse tools and inspect the data profile as well as the map that is rendered in the Configuration window.
+
+The first browse tool should present a data profile below: Click on each of the columns in the data profile to learn more about each one:
+![image](https://user-images.githubusercontent.com/90619708/179419677-4b7e662c-24d6-48ab-a6af-483f6c56ad9f.png)
+
+The second browse tool should render a map in the Configuration window as seen below:
+![image](https://user-images.githubusercontent.com/90619708/179419713-240d87a9-f7ba-44bc-b402-85ed4638c17e.png)
+
+
+### Part 2: Combine the files
+
+**Step 2.0.1** Drag and drop the Join tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Join tab. Connect the output anchor of the Select tool to the L (Left) input anchor of the Join tool. Then, connect the output anchor of the **CO Store File - North.yxdb** input dat tool to the R (right) inout anchor of the Join tool.
+
+**Step 2.0.2** In the Configuration window, select *Join by Specific Feilds* and pick **Store** from the left dropdown and **Store Num** from the right dropdown
+
+**Step 2.0.3** Deselect the Left input Store Feild from the ourput options in the Configuration window. Since we have the Store Num values the same as the Store values, we do not need the Store feild in our output.
+
+**Step 2.0.4** Reorder the output to have Store Number as the first feild presented in the output. To reorder a column of data, select to highlight its row and then use the Move Up or Move Down arrows, or right-click and drag, to move the rows to a new location. 
+
+Your final configuration should look as below:
+
+![image](https://user-images.githubusercontent.com/90619708/179420637-0c4e8aed-9c1e-42bb-89a8-888d74ddbaaf.png)
+
 
  
  
