@@ -56,8 +56,8 @@ At the end of our build, we will have a completed workflow that looks similar to
 ### [ Part 2: Combine the files](www.google.com)
 ### [ Part 3: Calculate a ‘Total Sales’ field per store](www.google.com)
 ### [ Part 4: Calculate the total sales per region (county)](www.google.com)
-### [ Part 5: Output the top three counties for total sales.] (www.google.com)
-### [ Part 6: Save your data and automate your workflow] (www.google.com)
+### [ Part 5: Output the top three counties for total sales.](www.google.com)
+### [ Part 6: Save your data and automate your workflow](www.google.com)
 
 
 ### Part 1: Prepare the data based on conversations with management
