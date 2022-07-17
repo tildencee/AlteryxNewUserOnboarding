@@ -48,7 +48,7 @@ ACME Industries has ‘dirty’ flat files containing 1) sales data by store and
 
 At the end of our build, we will have a completed workflow that looks similar to this below:
 
-![image](https://user-images.githubusercontent.com/90619708/179031571-8f6a415f-e4e2-4eb8-81a3-fbbacca7cf26.png)
+![image](https://user-images.githubusercontent.com/90619708/179424931-0d0b2ef9-e717-4dd9-adac-4ee7b7eef266.png)
 
 ## Hands-on Lab Deep Dive
 
