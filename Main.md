@@ -133,6 +133,20 @@ Run and save your workflow. Your final configuration should look as below:
 
 ### Part 4: Calculate the total sales per region (county)
 
+**Step 4.0.1** Drag and drop the Summarize tool from the tool palette onto the canvas. This may be found under the Favorites or Trandform tab. Connect the output anchor from the Formula tool to the input anchor of the Summarize tool. 
 
+**Step 4.0.2** In the Configuration window under Feilds, select to highlight the County row. Then, click on Add and select Group By from the drop down.
+
+![image](https://user-images.githubusercontent.com/90619708/179422595-05d253e4-6dcf-4273-b07f-bda236e9e2db.png)
+
+**Step 4.0.3** In the Configuration window under Feilds, select to highlight the Total Sales row. Then, click on Add and select Sum from the drop down.
+
+![image](https://user-images.githubusercontent.com/90619708/179422788-d950603f-b758-4f28-9e1e-36a4b134199d.png)
+
+Run and save your workflow. Your final configuration should look as below:
+
+![image](https://user-images.githubusercontent.com/90619708/179422815-27a72be0-ea07-4eff-90f3-7f3083fc2aaa.png)
+
+### Part 4: Output the top three counties for total sales.
 
  
