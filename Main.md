@@ -8,11 +8,11 @@
 A hands-on workshop to dive into development on Alteryx's Designer platform
 
 ## Overview
-Enterprises can innovate faster, drive business-process efficiency, and accelerate digital transformation with Alteryx. Alteryx Designer empowers data analysts, scientists and knowledge workers alike by combining data preparation, data blending, and analytics —predictive, statistical, and spatial —using a low code to no-code intuitive user interface.
+Enterprises can innovate faster, drive business-process efficiency, and accelerate digital transformation with Alteryx. Alteryx Designer empowers data analysts, scientists and knowledge workers alike by combining data preparation, data blending, and analytics —predictive, statistical, or spatial —using a low code to no-code intuitive user interface.
 
-This workshop will focus on the following solution capabilities within Alteryx.  
-- Alteryx Designer delivers best in class data prep & analytics. Master your data landscape, no matter the source. Connect, blend, and wrangle it. Profile it for sound analytics decisions. No code required.
-- Alteryx Designer delivers best in class analytics automation. Stop reinventing the wheel. Create and automate workflows to accelerate innovation. Discover the analytics and data science platform that empowers everyone to make breakthrough insights.
+This workshop will focus on the following solution capabilities within Alteryx:  
+- Alteryx Designer delivers best in class data prep & analytics: In this workshop we will learn how to master your data landscape, no matter the source. We will connect, blend, and wrangle data from multiple sources. Profile it for sound analytics decisions. No code required.
+- Alteryx Designer delivers best in class analytics automation: Stop reinventing the wheel. Create and automate workflows to accelerate innovation. Discover the analytics and data science platform that empowers everyone to make breakthrough insights.
 
 ## Introducing the Alteryx Designer Interface
 
@@ -101,13 +101,13 @@ The second browse tool should render a map as seen below:
 
 ### Part 2: Combine the files
 
-**Step 2.0.1** Drag and drop the Join tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Join tab. Connect the output anchor of the Select tool to the L (Left) input anchor of the Join tool. Then, connect the output anchor of the **CO Store File - North.yxdb** input dat tool to the R (right) inout anchor of the Join tool.
+**Step 2.0.1** Drag and drop the Join tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Join tab. Connect the output anchor of the Select tool to the L (Left) input anchor of the Join tool. Then, connect the output anchor of the **CO Store File - North.yxdb** input data tool to the R (right) inout anchor of the Join tool.
 
-**Step 2.0.2** In the Configuration window, select *Join by Specific Feilds* and pick **Store** from the left dropdown and **Store Num** from the right dropdown
+**Step 2.0.2** In the Configuration window, select *Join by Specific Fields* and pick **Store** from the left dropdown and **Store Num** from the right dropdown
 
-**Step 2.0.3** Deselect the Left input Store Feild from the ourput options in the Configuration window. Since we have the Store Num values the same as the Store values, we do not need the Store feild in our output.
+**Step 2.0.3** Deselect the Left input Store Field from the ourput options in the Configuration window. Since we have the Store Num values the same as the Store values, we do not need the Store field in our output.
 
-**Step 2.0.4** Reorder the output to have Store Number as the first feild presented in the output. To reorder a column of data, select to highlight its row and then use the Move Up or Move Down arrows, or right-click and drag, to move the rows to a new location. 
+**Step 2.0.4** Reorder the output to have Store Number as the first field presented in the output. To reorder a column of data, select to highlight its row and then use the Move Up or Move Down arrows, or right-click and drag, to move the rows to a new location. 
 
 Run and save your workflow. Your final configuration should look as below:
 
@@ -115,7 +115,7 @@ Run and save your workflow. Your final configuration should look as below:
 
 ### Part 3: Calculate a ‘Total Sales’ field per store
 
-**Step 3.0.1** Drag and drop the Formula tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Preparation tab. Connect the J output anchor of the Join tool to the input anchor of the Formula tool.
+**Step 3.0.1** Drag and drop the Formula tool from the tool palette onto the canvas. This may be found under the Favorites tab or the Preparation tab. Connect the J output anchor of the Join tool to the input anchor of the Formula tool.
 
 **Step 3.0.2** In the Configuration window, click on Select Column, then click on Add Column. 
 
@@ -135,11 +135,11 @@ Run and save your workflow. Your final configuration should look as below:
 
 **Step 4.0.1** Drag and drop the Summarize tool from the tool palette onto the canvas. This may be found under the Favorites or Trandform tab. Connect the output anchor from the Formula tool to the input anchor of the Summarize tool. 
 
-**Step 4.0.2** In the Configuration window under Feilds, select to highlight the County row. Then, click on Add and select Group By from the drop down.
+**Step 4.0.2** In the Configuration window under Fields, select to highlight the County row. Then, click on Add and select Group By from the drop down.
 
 ![image](https://user-images.githubusercontent.com/90619708/179422595-05d253e4-6dcf-4273-b07f-bda236e9e2db.png)
 
-**Step 4.0.3** In the Configuration window under Feilds, select to highlight the Total Sales row. Then, click on Add and select Sum from the drop down.
+**Step 4.0.3** In the Configuration window under Fields, select to highlight the Total Sales row. Then, click on Add and select Sum from the drop down.
 
 ![image](https://user-images.githubusercontent.com/90619708/179422898-991ba04d-cc28-40fd-a87d-c361d695e65e.png)
 
@@ -151,7 +151,7 @@ Run and save your workflow. Your final configuration should look as below:
 
 **Step 5.0.1** Drag and drop the Sort tool from the tool palette onto the canvas. This may be found under the Favorites or Preparation tab. Connect the output anchor from the Summarize tool to the input anchor of the Sort tool.
 
-**Step 5.0.2** In the Configuration window under Feilds, select the Sum_Total Sales column under Name and Descending under Order.
+**Step 5.0.2** In the Configuration window under Fields, select the Sum_Total Sales column under Name and Descending under Order.
 
 Run and save your workflow. Your final configuration should look as below:
 
