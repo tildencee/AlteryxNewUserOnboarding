@@ -12,7 +12,7 @@ Enterprises can innovate faster, drive business-process efficiency, and accelera
 
 This workshop will focus on the following solution capabilities within Alteryx:  
 - Alteryx Designer delivers best in class data prep & analytics: In this workshop we will learn how to master your data landscape, no matter the source. We will connect, blend, and wrangle data from multiple sources. Profile it for sound analytics decisions. No code required.
-- Alteryx Designer delivers best in class analytics automation: Stop reinventing the wheel. Create and automate workflows to accelerate innovation. Discover the analytics and data science platform that empowers everyone to make breakthrough insights.
+- Alteryx Designer delivers best in class analytics automation: In this workshop we will learn how to create and automate workflows to accelerate innovation. We will discover the analytics and data science platform that empowers everyone to make breakthrough insights.
 
 ## Introducing the Alteryx Designer Interface
 
