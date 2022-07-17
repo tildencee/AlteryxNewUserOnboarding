@@ -97,7 +97,7 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 **Step 1.1.2** Drag and drop the Browse data tool from the tool palette and connect to the right anchor of the previously added Select tool. Do the same for the **CO Store File - North.yxdb** input data tool
 
-![image](https://user-images.githubusercontent.com/90619708/179419200-e63d1681-ae10-48f1-8066-4dc8db03f942.png)
+![image](https://user-images.githubusercontent.com/90619708/179426164-81aa97a8-be30-4dd2-a20c-f87a2180b55f.png)
 
 _**Congratulations!**_ You are now all done with part 1. Run your workflow, save it and then, click on each of the Browse tools. Inspect the data profile as well as the map that is rendered in the Configuration window.
 
