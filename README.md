@@ -51,6 +51,15 @@ At the end of our build, we will have a completed workflow that looks similar to
 ![image](https://user-images.githubusercontent.com/90619708/179031571-8f6a415f-e4e2-4eb8-81a3-fbbacca7cf26.png)
 
 ## Hands-on Lab Deep Dive
+
+### [ Part 1: Prepare the data based on conversations with management](www.google.com)
+### [ Part 2: Combine the files](www.google.com)
+### [ Part 3: Calculate a ‘Total Sales’ field per store](www.google.com)
+### [ Part 4: Calculate the total sales per region (county)](www.google.com)
+### [ Part 5: Output the top three counties for total sales.] (www.google.com)
+### [ Part 6: Save your data and automate your workflow] (www.google.com)
+
+
 ### Part 1: Prepare the data based on conversations with management
  
 **Step 1.0.1** Drag and drop the input data tool from the tool palette onto the canvas. This may be found under the Favorties tab or the In/Out tab.
