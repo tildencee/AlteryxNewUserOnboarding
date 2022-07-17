@@ -113,6 +113,11 @@ Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179420637-0c4e8aed-9c1e-42bb-89a8-888d74ddbaaf.png)
 
+### Part 3: Calculate a ‘Total Sales’ field per store
 
- 
+**Step 3.0.1** Drag and drop the Formula tool from the tool palette onto the canvas. This may be found under the Favorties tab or the Preparation tab.
+
+![image](https://user-images.githubusercontent.com/90619708/179420913-e868314f-706e-4408-91b0-abb9044b9466.png)
+
+
  
