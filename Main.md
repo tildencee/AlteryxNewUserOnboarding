@@ -125,11 +125,11 @@ Your final configuration should look as below:
 
 `[Cash Sales]+[Credit Sales]`
 
-Your final configuration should look as below:
+Then change the data type of *Total Sales* to *Double*. Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179421590-1d9a19ad-eaef-4b7e-9b2d-73a5f223411a.png)
 
-
+### Part 4: Calculate the total sales per region (county)
 
 
 
