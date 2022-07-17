@@ -90,12 +90,12 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ![image](https://user-images.githubusercontent.com/90619708/179419200-e63d1681-ae10-48f1-8066-4dc8db03f942.png)
 
-_**Congratulations!**_ You are now all done with part 1. Run your workflow and click on each of the Browse tools and inspect the data profile as well as the map that is rendered in the Configuration window.
+_**Congratulations!**_ You are now all done with part 1. Run your workflow, save it and then, click on each of the Browse tools. Inspect the data profile as well as the map that is rendered in the Configuration window.
 
-The first browse tool should present a data profile below: Click on each of the columns in the data profile to learn more about each one:
+The first browse tool should present a data profile as seen below: Click on each of the columns in the data profile to learn more about each one:
 ![image](https://user-images.githubusercontent.com/90619708/179419677-4b7e662c-24d6-48ab-a6af-483f6c56ad9f.png)
 
-The second browse tool should render a map in the Configuration window as seen below:
+The second browse tool should render a map as seen below:
 ![image](https://user-images.githubusercontent.com/90619708/179419713-240d87a9-f7ba-44bc-b402-85ed4638c17e.png)
 
 
@@ -109,7 +109,7 @@ The second browse tool should render a map in the Configuration window as seen b
 
 **Step 2.0.4** Reorder the output to have Store Number as the first feild presented in the output. To reorder a column of data, select to highlight its row and then use the Move Up or Move Down arrows, or right-click and drag, to move the rows to a new location. 
 
-Your final configuration should look as below:
+Run and save your workflow. Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179420637-0c4e8aed-9c1e-42bb-89a8-888d74ddbaaf.png)
 
@@ -125,9 +125,11 @@ Your final configuration should look as below:
 
 `[Cash Sales]+[Credit Sales]`
 
-Then change the data type of *Total Sales* to *Double*. Your final configuration should look as below:
+Then change the data type of *Total Sales* to *Double*. 
 
-![image](https://user-images.githubusercontent.com/90619708/179421590-1d9a19ad-eaef-4b7e-9b2d-73a5f223411a.png)
+Run and save your workflow. Your final configuration should look as below:
+
+![image](https://user-images.githubusercontent.com/90619708/179422104-8d59272b-9007-4615-85fa-02efe3e85bd2.png)
 
 ### Part 4: Calculate the total sales per region (county)
 
