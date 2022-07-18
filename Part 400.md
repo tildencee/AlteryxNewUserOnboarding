@@ -22,3 +22,5 @@ A hands-on workshop to dive into development on Alteryx's Designer platform
 Run and save your workflow. Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179423279-874d2be6-9d4f-4d57-9113-e3aa09d50079.png)
+
+_**CONGRATULATIONS!**_ You are now all done with part 4. Run your workflow, save it and move on to **[ Part 5: Output the top three counties for total sales.](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20500.md)**
