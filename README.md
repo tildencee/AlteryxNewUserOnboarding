@@ -52,12 +52,12 @@ At the end of our build, we will have a completed workflow that looks similar to
 
 ## Hands-on Lab Deep Dive
 
-### [ Part 1: Prepare the data based on conversations with management](www.google.com)
-### [ Part 2: Combine the files](www.google.com)
-### [ Part 3: Calculate a ‘Total Sales’ field per store](www.google.com)
-### [ Part 4: Calculate the total sales per region (county)](www.google.com)
-### [ Part 5: Output the top three counties for total sales.](www.google.com)
-### [ Part 6: Save your data and automate your workflow](www.google.com)
+### [ Part 1: Prepare the data based on conversations with management](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20100.md)
+### [ Part 2: Combine the files](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20200.md)
+### [ Part 3: Calculate a ‘Total Sales’ field per store](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20300.md)
+### [ Part 4: Calculate the total sales per region (county)](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20400.md)
+### [ Part 5: Output the top three counties for total sales.](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20500.md)
+### [ Part 6: Save your data and automate your workflow](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20600.md)
 
 
 ### Part 1: Prepare the data based on conversations with management
