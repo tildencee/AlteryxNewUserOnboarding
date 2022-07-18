@@ -27,7 +27,7 @@ A hands-on workshop to dive into development on Alteryx's Designer platform
 
 **Step 1.0.5** Proceed to click the OK button on the Select Excel Input dialogue box pop-up. You will now see that you are connected to the file in the Canvas, with the Options and Preview sections populated in the Configuration window.
 
-![image](https://user-images.githubusercontent.com/90619708/179292948-8dba755b-966a-47ce-ad8b-ccc1c86d5a16.png)
+![image](https://user-images.githubusercontent.com/90619708/179544466-95d75679-7fb6-40ec-a458-dc78a0730ae3.png)
 
 **Step 1.0.6** Repeat steps 1.0.1 to 1.0.3. This time making sure to select the **CO Store File - North.yxdb** file. Your final output should look like this. 
 
