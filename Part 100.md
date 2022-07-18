@@ -63,4 +63,4 @@ The second browse tool should render a map as seen below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179419713-240d87a9-f7ba-44bc-b402-85ed4638c17e.png)
 
-_**CONGRATULATIONS!**_ You are now all done with part 1. Run your workflow, save it and move on to ###[ Part 2: Combine the files](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20200.md)
+_**CONGRATULATIONS!**_ You are now all done with part 1. Run your workflow, save it and move on to **[ Part 2: Combine the files](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20200.md)**
