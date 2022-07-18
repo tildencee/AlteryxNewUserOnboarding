@@ -38,14 +38,15 @@ A hands-on workshop to dive into development on Alteryx's Designer platform
  
  ![image](https://user-images.githubusercontent.com/90619708/179300859-e7a66eff-68bf-4338-a7e3-fd9b51ae406f.png)
  
- **Step 1.1.1** In the Configuration window for our Select tool, rename the column headers listed as "Data 1", "Data 2", "Data 3" and "Data 4" as '''Store''' "Cash Sales", "Credit Sales" and "Total Customers" respectively. Change the data type of the newly named "Data 1" column header to "Int 8" if not done already.
+ **Step 1.1.1** In the Configuration window for our Select tool, rename the column headers listed as "Data 1", "Data 2", "Data 3" and "Data 4" as '''Store''' "Cash Sales", "Credit Sales" and "Total Customers" respectively. Change the data type of the newly named "Data 1" column header to "Int 64" if not done already.
  
-| Feild | Rename |
-| Data 1 | Store |
-| Data 2 | Cash Sales |
-| Data 3 | Credit Sales |
-| Data 4 | Total Customers |
- 
+|Feild|Rename|
+|--------|-------|
+|Data 1|Store|
+|Data 2|Cash Sales|
+|Data 3|Credit Sales|
+|Data 4|Total Customers|
+
 ![image](https://user-images.githubusercontent.com/90619708/179304291-3564479c-c527-4751-9eb8-147d7985051a.png)
 
 **Step 1.1.2** Drag and drop the Browse data tool from the tool palette and connect to the right anchor of the previously added Select tool. Do the same for the **CO Store File - North.yxdb** input data tool
@@ -54,10 +55,12 @@ A hands-on workshop to dive into development on Alteryx's Designer platform
 
 **Step 1.1.3** Click on each of the Browse tools. Inspect the data profile as well as the map that is rendered in the Configuration window.
 
-The first browse tool should present a data profile as seen below: Click on each of the columns in the data profile to learn more about each one:
+The first browse tool should present a data profile as seen below. Click on each of the columns in the data profile to learn more about each one:
+
 ![image](https://user-images.githubusercontent.com/90619708/179426070-fe26940f-500a-45e6-8a71-1601d4431386.png)
 
 The second browse tool should render a map as seen below:
+
 ![image](https://user-images.githubusercontent.com/90619708/179419713-240d87a9-f7ba-44bc-b402-85ed4638c17e.png)
 
-_**CONGRATULATIONS!**_ You are now all done with part 1. Run your workflow, save it and move on to [ Part 2: Combine the files](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20200.md)
+_**CONGRATULATIONS!**_ You are now all done with part 1. Run your workflow, save it and move on to ###[ Part 2: Combine the files](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20200.md)
