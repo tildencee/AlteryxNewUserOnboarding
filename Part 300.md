@@ -21,6 +21,12 @@ A hands-on workshop to dive into development on Alteryx's Designer platform
 
 Then change the data type of *Total Sales* to *Double*. 
 
+|Output Column|Expression|Data Type|
+|--------|-------|-------|
+|Total Sales|[Cash Sales]+[Credit Sales]|Double|
+
 Run and save your workflow. Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179422104-8d59272b-9007-4615-85fa-02efe3e85bd2.png)
+
+_**CONGRATULATIONS!**_ You are now all done with part 3. Run your workflow, save it and move on to **[ Part 4: Calculate the total sales per region (county)](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20400.md)**
