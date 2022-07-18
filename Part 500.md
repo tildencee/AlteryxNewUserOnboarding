@@ -19,8 +19,10 @@ Run and save your workflow. Your final configuration should look as below:
 
 **Step 5.0.3** Drag and drop the Sample tool from the tool palette onto the canvas. This may be found under the Favorites or Preparation tab. Connect the output anchor from the Sort tool to the input anchor of the Summarize tool.
 
-**Step 5.0.4** In the Configuration window under Select Sample Type, select the First N rows radio button and then set N to 3
+**Step 5.0.4** In the Configuration window under Select Sample Type, select the **First N rows** radio button and then set **N to 3**
 
 Run and save your workflow. Your final configuration should look as below:
 
 ![image](https://user-images.githubusercontent.com/90619708/179423830-ee0943dd-859a-45c9-8499-1fa655bcc5d0.png)
+
+_**CONGRATULATIONS!**_ You are now all done with part 5. Run your workflow, save it and move on to **[ Part 6: Save your data and automate your workflow](https://github.com/tildencee/AlteryxNewUserOnboarding/blob/main/Part%20600.md)**
